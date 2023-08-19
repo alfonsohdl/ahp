@@ -5,6 +5,8 @@
 
 In this project, I will calculate the probability of the price of going up tomorrow for the S&P500 Index.
 
+The method I am using in this project is called Random Forest, which is basically an ensemble technique that builds multiple decision trees to make predictions and averages their outputs.
+
 - Project Steps:
 
 · Download data using the yfinance package
