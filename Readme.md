@@ -1,11 +1,11 @@
 
 ############ - PROJECT #1 - ############
 
-Project Overview:
+- Project Overview:
 
 In this project, I will calculate the probability of the price of going up tomorrow for the S&P500 Index.
 
-Project Steps:
+- Project Steps:
 
 · Download data using the yfinance package
 
@@ -15,19 +15,19 @@ Project Steps:
 
 · Improve the accuracy of the model
 
-A Jupyter notebook that contains all of the code ---> marketprediction.ipynb 
+- A Jupyter notebook that contains all of the code ---> marketprediction.ipynb 
 
 ------------------------------------------------------------------------------------------------------------
 
 ############ - PROJECT #2 - ############
 
-Project Overview:
+- Project Overview:
 
-In this project, I am using a Recurrent Neural Network (RNN) to predict stock prices using scikit-learn and Keras.
+In this project, I am using a Recurrent Neural Network (RNN) to predict Microsoft ($MSFT) stock price using scikit-learn and Keras.
 
 A RNN is a class of neural networks specifically designed to work with sequential data, so they can capture temporal dependencies in stock price data.
 
-Project Steps:
+- Project Steps:
 
 · Download data using the yfinance package
 
@@ -41,4 +41,4 @@ Project Steps:
 
 · Plot the results
 
-A Jupyter notebook that contains all of the code ---> rnn_stockprediction.ipynb 
+- A Jupyter notebook that contains all of the code ---> rnn_stockprediction.ipynb 
