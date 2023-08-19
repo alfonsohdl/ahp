@@ -17,7 +17,7 @@ The method I am using in this project is called Random Forest, which is basicall
 
 · Improve the accuracy of the model
 
-- A Jupyter notebook that contains all of the code ---> rf_sp500_prediction.ipynb 
+- A Jupyter notebook that contains all of the code ---> [CODE]([https://www.openai.com/](https://github.com/alfonsohdl/ahp/blob/main/rf_sp500_prediction.ipynb)https://github.com/alfonsohdl/ahp/blob/main/rf_sp500_prediction.ipynb)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ A RNN is a class of neural networks specifically designed to work with sequentia
 
 · Plot the results
 
-- A Jupyter notebook that contains all of the code ---> rnn_msft_prediction.ipynb 
+- A Jupyter notebook that contains all of the code ---> [CODE]([https://www.openai.com/](https://github.com/alfonsohdl/ahp/blob/main/rf_sp500_prediction.ipynb)https://github.com/alfonsohdl/ahp/blob/main/rnn_msft_prediction.ipynb)
