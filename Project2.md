@@ -23,4 +23,4 @@ A RNN is a class of neural networks specifically designed to work with sequentia
 - A Jupyter notebook that contains all of the code ---> [HERE](https://github.com/alfonsohdl/ahp/blob/main/rnn_msft_prediction.ipynb)
   
 ------------------------------------------------------------------------------------------------------------
- **DISCLAIMER**: My content is educational - It is not financial advise.
+ **DISCLAIMER**: My content is educational - It is not financial advise
