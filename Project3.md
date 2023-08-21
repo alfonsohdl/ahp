@@ -2,11 +2,11 @@
 
 - Project Overview:
 
-In this project, I will calculate the present value of a series of future cash flows.
+· In this project, I will calculate the present value of a series of future cash flows.
 
-Present value (PV) is the current value of a future sum of money or stream of cash flows given a specified rate of return.
+· Present value (PV) is the current value of a future sum of money or stream of cash flows given a specified rate of return.
 
-Present value allows investors to judge whether or not the price they pay for an investment is appropriate.
+· Present value allows investors to judge whether or not the price they pay for an investment is appropriate.
 
 - Project Steps:
 
