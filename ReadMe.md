@@ -1,4 +1,4 @@
-############ - PROJECT #1 - ############
+------------- **PROJECT #1** ------------- 
 
 - Project Overview:
 
@@ -20,7 +20,7 @@ The method I am using in this project is called Random Forest, which is basicall
 
 ------------------------------------------------------------------------------------------------------------
 
-############ - PROJECT #2 - ############
+------------- **PROJECT #2** -------------
 
 - Project Overview:
 
