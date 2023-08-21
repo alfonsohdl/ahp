@@ -2,9 +2,9 @@
 
 - Project Overview:
 
-· In this project, I will calculate the probabilites, expected values and more statistical information needed to excel as Poker player.
+· In this project, I will calculate the probabilites, expected values and more statistical information needed to excel as a Poker player.
 
-· In addition, I will show you the most optimal decision when facing different situations at the Poker table.
+· In addition, I will show you the most optimal decisions when facing different situations at the Poker table.
 
 · The goal is to learn the most optimal behaviour when playing, and by doing so, enriching your decision making process during the game.
 
