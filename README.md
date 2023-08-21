@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-· Project #3: Present Value of a series of cash flows --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project3.md)
+· Project #3: Time Value of Money --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project3.md)
 
 
 ------------------------------------------------------------------------------------------------------------
