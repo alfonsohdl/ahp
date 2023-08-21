@@ -3,15 +3,15 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-· Project #1: S&P500 Prediction using Random Forest --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project1.md)
+· 1) S&P500 Prediction using Random Forest --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project1.md)
   
 ------------------------------------------------------------------------------------------------------------
 
-· Project #2: $MSFT Prediction using RNN --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project2.md)
+· 2) $MSFT Prediction using RNN --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project2.md)
 
 ------------------------------------------------------------------------------------------------------------
 
-· Project #3: Time Value of Money --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project3.md)
+· 3) Time Value of Money --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project3.md)
 
 
 ------------------------------------------------------------------------------------------------------------
