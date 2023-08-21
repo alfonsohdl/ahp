@@ -3,11 +3,11 @@
 ------------------------------------------------------------------------------------------------------------
 
 
-**· 1)** *S&P500 Prediction using Random Forest* --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project1.md)
+**· 1)** *S&P500 Prediction using Random Forest method* --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project1.md)
   
 ------------------------------------------------------------------------------------------------------------
 
-**· 2)** *MSFT Prediction using RNN* --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project2.md)
+**· 2)** *MSFT Prediction using Recurrent Neural Network method* --> Description: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project2.md)
 
 ------------------------------------------------------------------------------------------------------------
 
