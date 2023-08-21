@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-**· 3)** [Time Value of Money Calculations.](https://github.com/alfonsohdl/ahp/blob/main/Project3.md)
+**· 3)** [Time Value of Money: Calculations.](https://github.com/alfonsohdl/ahp/blob/main/Project3.md)
 
 ------------------------------------------------------------------------------------------------------------
 
