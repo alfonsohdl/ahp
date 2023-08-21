@@ -1,7 +1,7 @@
 ------------- **INDEX** -------------
 
 
-· **PROJECT #1** --> [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project1.md)
+· **PROJECT #1: S&P500 Prediction** --> PROJECT DESCRIPTION: [HERE](https://github.com/alfonsohdl/ahp/blob/main/Project1.md)
   
 ------------------------------------------------------------------------------------------------------------
 
