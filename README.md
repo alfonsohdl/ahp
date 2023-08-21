@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-**· 4)** [Probabilities in Card Games (Poker Texas Hold'em)](https://github.com/alfonsohdl/ahp/blob/main/Project4.md)
+**· 4)** [Probabilities in Card Games: Poker Texas Hold'em](https://github.com/alfonsohdl/ahp/blob/main/Project4.md)
 
 
 ------------------------------------------------------------------------------------------------------------
