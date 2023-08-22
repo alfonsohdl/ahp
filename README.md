@@ -19,7 +19,7 @@
 
 
 ------------------------------------------------------------------------------------------------------------
-BONUS
+**BONUS**
 
 **· Master's Thesis:** ["Game Theory and Networks"](https://github.com/alfonsohdl/ahp/blob/main/TFM.pdf)
 
