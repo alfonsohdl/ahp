@@ -26,4 +26,4 @@ BONUS
 *"This paper provides a theoretical introduction to game theory on networks. It presents the theoretical context and defines games on networks. Starting from such theoretical framework, the paper proposes several examples that illustrate how the structure of **Nash equilibria** on network changes with respect to traditional bilateral games.[...]"*
 
  ------------------------------------------------------------------------------------------------------------
- **DISCLAIMER**: **My content is educational + It is not financial advise.**
+ **DISCLAIMER**: **The content is educational + It is not financial advise.**
