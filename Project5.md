@@ -8,7 +8,7 @@
 
 · The goal is to calculate important metrics in order to provide qualitative reasoning to the quantitative results obtained.
 
-- A Jupyter notebook that contains all of the code ---> [HERE](https://github.com/alfonsohdl/ahp/blob/main/st-power-market-challenge-2.ipynb)
+- A Jupyter notebook that contains all of the code ---> [HERE](https://github.com/alfonsohdl/ahp/blob/main/st_power_market_challenge.ipynb)
   
 ------------------------------------------------------------------------------------------------------------
  **DISCLAIMER**: My content is educational - It is not financial advise.
