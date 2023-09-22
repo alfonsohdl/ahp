@@ -2,7 +2,7 @@
 
 - Project Overview:
 
-· In this project, I will analyse the energy trading data in order to get some insights in the Iberian continuous intraday power market.
+· In this project, I will analyse the energy trading data in order to get some insights from the Iberian continuous intraday power market.
 
 · The provided dataset is based on publicly available trade data published by [OMIE](https://www.omie.es/es/file-access-list).
 
