@@ -2,11 +2,11 @@
 
 Project Overview:
 
-· In this project, I will analyse the energy trading data in order to get some insights from the Iberian continuous intraday power market.
+· In this project, I will analyse my performance as a trader by taking a deeper look into my trading-record.
 
-· The provided dataset is based on publicly available trade data published by OMIE.
+· The dataset was downloaded from my personal MT5 trading account.
 
-· The goal is to calculate important metrics in order to provide qualitative reasoning to the quantitative results obtained.
+· The goal is to calculate my trading metrics and display various charts and graphs to identify opportunities for performance improvement.
 
 A Jupyter notebook that contains all of the code ---> [HERE](trading_performance_analysis.ipynb)
 
