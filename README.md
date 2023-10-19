@@ -23,7 +23,7 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-**· 6)** [Trading insights from my personal trading-record.](https://github.com/alfonsohdl/ahp/blob/main/Project6.md)
+**· 6)** [Analysing my own personal trading data.](https://github.com/alfonsohdl/ahp/blob/main/Project6.md)
 
 ------------------------------------------------------------------------------------------------------------
 **BONUS**
