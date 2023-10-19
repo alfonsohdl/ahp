@@ -21,6 +21,9 @@
 
 **· 5)** [Analysing trading data from the Iberian continuous intraday power market.](https://github.com/alfonsohdl/ahp/blob/main/Project5.md)
 
+------------------------------------------------------------------------------------------------------------
+
+**· 6)** [Trading insights from my personal trading-record.](https://github.com/alfonsohdl/ahp/blob/main/Project6.md)
 
 ------------------------------------------------------------------------------------------------------------
 **BONUS**
