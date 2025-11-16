@@ -25,7 +25,7 @@
 
 **· 6)** [The Margin Call Recovery Probability **Machine Learning** Model.](https://github.com/alfonsohdl/ahp/blob/main/Project6.md)
 
-*PDF Paper ["Understanding The Margin Call Recovery Probability Model"](https://github.com/alfonsohdl/ahp/blob/main/MarginCall_RecoveryProbability_Model_v7.pdf)*
+   *PDF Paper ["Understanding The Margin Call Recovery Probability Model"](https://github.com/alfonsohdl/ahp/blob/main/MarginCall_RecoveryProbability_Model_v7.pdf)*
 
 
 ------------------------------------------------------------------------------------------------------------
