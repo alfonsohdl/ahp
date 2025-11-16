@@ -1,14 +1,14 @@
 ----------------------------------------------- PROJECT #6 ---------------------------------------------
 
-Project Overview:
+Margin Call Recovery Probability Model:
 
-· In this project, I will analyse my performance as a trader by taking a deeper look into my trading-record.
+· The project goal is to estimate the probability that an outstanding exposure (outstanding Margin Calls, pending to be paid/collected) will be collected within a given horizon, conditional on its current age and features.
 
-· The dataset was downloaded from my personal MT5 trading account.
+*“Given how long an account has had a margin call open, what is the probability that it will finish paying (i.e., settle its outstanding obligation) within the next X days?”*
 
-· The goal is to calculate my trading metrics and display various charts and graphs to identify opportunities for performance improvement.
+· The Margin Call Recovery Probability Model predicts how likely each outstanding margin call is to be collected in the future. It focuses on the remaining amount owed (GBP Outstanding) rather than the total initially issued. Every record in the model represents a specific MC’s situation at a given observation date, allowing the model to simulate real-world monitoring.
 
-A Jupyter notebook that contains all of the code ---> [HERE](trading_performance_analysis.ipynb)
+A Jupyter notebook that contains all of the code ---> [HERE](cox_survival_margincall_model.ipynb)
 
 ------------------------------------------------------------------------------------------------------------
  **DISCLAIMER**: My content is educational - It is not financial advise
